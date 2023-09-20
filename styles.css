@@ -3,8 +3,7 @@
 	background-color:#f5f5f5;
 	padding: 20px;
 }
-
-blockquote{
+.inner{
 	background-color:white;
 	padding:10px;
 	border:0.5px solid grey;
